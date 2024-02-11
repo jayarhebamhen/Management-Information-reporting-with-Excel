@@ -1,6 +1,6 @@
 # Management-Information-reporting-with-Excel
 
-## Basic/Essentials of Excel
+## Basics/Essentials of Excel
 
 - Everything about Excel Basics and Techniques
 - Flashfill & Autofill
